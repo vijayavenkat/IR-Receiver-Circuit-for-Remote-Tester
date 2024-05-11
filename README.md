@@ -39,7 +39,7 @@ Online design tool link: https://easyeda.com/editor (Note: New user sign up or s
 
 Desktop download link for all operating systems: https://easyeda.com/page/download
 
-Main Blogs Link: 
+Main Blogs Link: https://aspc-official.blogspot.com/2024/05/simple-ir-receiver-circuit-for-remote.html 
 
 Conclusion:
 
